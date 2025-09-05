@@ -41,4 +41,4 @@ How to Run
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/IPL-2022-Data-Analysis.git
+   git clone https://github.com/Saad1996-stack/IPL-2022-Analysis
