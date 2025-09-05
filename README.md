@@ -36,9 +36,3 @@ Plotly Express & Plotly Graph Objects – For interactive and visually appealing
 - Created interactive bar charts and pie charts for easy visualization.  
 - Used mapping to convert raw categorical values into readable labels.  
 - Counted and ranked teams and players based on matches won, points, and performance stats.  
-
-How to Run
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Saad1996-stack/IPL-2022-Analysis
